@@ -1,4 +1,4 @@
-# Scripts-For-Solar-Engine
+# YMR's Scripts for SE
 All my scripts For Solar Engine are here, including the ones that are not on the main site, i think...
 
 made by **ymrgame2009**
